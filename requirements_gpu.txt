@@ -1,0 +1,9 @@
+# ============================================
+# REQUERIMIENTOS PARA ENTRENAMIENTO CON GPU
+# ============================================
+# REQUISITOS PREVIOS:
+# - NVIDIA GPU con soporte CUDA
+# - CUDA Toolkit 11.2 o superior
+# - cuDNN 8.1 o superior
+
+tensorflow>=2.10.0,<2.16.0
